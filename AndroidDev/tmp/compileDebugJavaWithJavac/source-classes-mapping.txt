@@ -1,0 +1,2 @@
+com/example/memebank/BuildConfig.java
+ com.example.memebank.BuildConfig
