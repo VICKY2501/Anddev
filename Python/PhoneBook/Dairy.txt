@@ -1,0 +1,56 @@
+Record No.: 1
+[12:57:55]  30.03.2021
+Name: Rohan Das
+Contact: 9953279610
+Address: A-32 Rama Vihar New Delhi
+Note: Rent agrrement
+
+Record No.: 2
+[12:58:20]  30.03.2021
+Name: Tejas Srivastava
+Contact: 9711258090
+Address: b-23/5 Rama Vihar New Delhi 
+Note: Owner of this program
+
+Record No.: 3
+[12:59:03]  30.03.2021
+Name: Vivek srivastava
+Contact: 9999773712
+Address: K-23 Block Z Paschim Vihar 
+Note: Mobile Recharge
+
+Record No.: 4
+[01:46:22]  31.03.2021
+Name: Rakesh Chaudhary
+Contact: 9985324572
+Address: K - 23/45 Block Z Pratap Nagar
+Note: Election
+
+Record No.: 5
+[01:46:53]  31.03.2021
+Name: SkillF
+Contact: 1000000000
+Address: Singapur SSX Street Near MK MAll
+Note: None
+
+Record No.: 6
+[23:55:45]  31.03.2021
+Name: Eren Yeager
+Contact: 1111111111
+Address: Shinkagkoi Yaganthon
+Note: Attack On Titans Anime
+
+Record No.: 8
+[00:11:19]  01.04.2021
+Name: Shivansh Bhandari
+Contact: 6666666666
+Address: A-90 Utsav Vihar Near Balaji Mandir
+Note: Holiday Homework
+
+Record No.: 9
+[00:11:58]  01.04.2021
+Name: ABC
+Contact: 2222222222
+Address: A-43 Kalam Pur Mandi Azad
+Note: 
+
